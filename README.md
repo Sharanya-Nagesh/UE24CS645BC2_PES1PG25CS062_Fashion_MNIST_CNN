@@ -1,13 +1,14 @@
-Project Overview
+Project Overview:
+
 A Convolutional Neural Network (CNN) built from scratch using only NumPy on the Fashion MNIST dataset — no PyTorch or TensorFlow used.
 
-Architecture
-Convolutional Layer (with ReLU activation)
-MaxPooling Layer
-Flatten Layer
-Fully Connected Layer (with Softmax)
-Dataset
-Fashion MNIST — 70,000 grayscale 28x28 images across 10 clothing classes
+1. Architecture
+2. Convolutional Layer (with ReLU activation)
+3. MaxPooling Layer
+4. Flatten Layer
+5. Fully Connected Layer (with Softmax)
+6. Dataset
+7. Fashion MNIST — 70,000 grayscale 28x28 images across 10 clothing classes
 
 Results
 Training Accuracy: ~72.2% (after 2 epochs)
